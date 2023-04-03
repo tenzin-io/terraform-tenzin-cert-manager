@@ -1,0 +1,6 @@
+apiVersion: v2
+name: cert-manager-cluster-issuer
+description: A chart to deploy cluster-issuer for cert-manager
+type: application
+version: 0.0.1
+appVersion: "0.0.1"

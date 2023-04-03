@@ -1,0 +1,3 @@
+locals {
+  namespace = "cert-manager"
+}
