@@ -1,3 +1,7 @@
+acme:
+  issuer: lets-encrypt
+  server: https://acme-v02.api.letsencrypt.org/directory
+
 cloudflare:
   apiToken:
     secretName: cloudflare-api-token-secret
